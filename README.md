@@ -20,10 +20,8 @@ The results of the methods will be included as a PDF after the study is complete
   - Decision Tree
   - Linear Regression
   - Random Forest
-  - Support Vector Regression
   - XGBoost
-- Deep Learning (Not yet)
+- Deep Learning
   - RNN
   - LSTM
   - GRU
-  - CNN
