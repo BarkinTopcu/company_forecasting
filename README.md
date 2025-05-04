@@ -13,9 +13,6 @@ Daily, weekly, and monthly forecasts are performed in separate Colab files.
 GridSearch is used to determine the optimal results.
 The results of the methods will be included as a PDF after the study is completed.
 
-- Basic Analysis
-  - Moving Average 7 and 30
-  - Exponential Smoothing 0.2 and 0.5
 - Machine Learning
   - Decision Tree
   - Linear Regression
