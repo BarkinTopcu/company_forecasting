@@ -22,3 +22,6 @@ The results of the methods will be included as a PDF after the study is complete
   - RNN
   - LSTM
   - GRU
+ 
+- #Bu proje için çalışmalar tamamlanmamıştır.
+Haziran ayında tekrardan tamamlanacaktır.
